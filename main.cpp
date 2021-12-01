@@ -8,6 +8,6 @@ int main (){
     cout<<x<<endl;
   } else {
     cout<<"errore"<<endl;
-  return 0;
   }
+  return 0;
 }
